@@ -1,5 +1,7 @@
 # 中国科大学生星云诗社 USTC Student Xing Yun Poetry Club
 
+![logo](<assets/logos/星云诗社LOGO USTC XingYun Poetry Club.png>)
+
 > 中国科大学星云诗社传承中国诗歌文化、传播诗歌魅力。
 
 > USTC Xing Yun Poetry Club preserves Chinese poetic culture and spreads its captivating charm.
